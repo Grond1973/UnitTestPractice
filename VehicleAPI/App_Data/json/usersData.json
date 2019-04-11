@@ -1,0 +1,26 @@
+﻿[
+  {
+    "UserId": 1,
+    "UserName": "Lawrence",
+    "Password": "KillMeNow$",
+    "IsAdmin": true
+  },
+  {
+    "UserId": 2,
+    "UserName": "kat",
+    "Password": "kAtT3stT3st",
+    "IsAdmin": false
+  },
+  {
+    "UserId": 3,
+    "UserName": "tester01",
+    "Password": "t3stt3st",
+    "IsAdmin": false
+  },
+  {
+    "UserId": 4,
+    "UserName": "Merle",
+    "Password": "testtest",
+    "IsAdmin": false
+  }
+]

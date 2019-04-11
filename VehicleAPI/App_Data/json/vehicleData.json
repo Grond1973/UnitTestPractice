@@ -1,0 +1,37 @@
+﻿[
+  {
+    "Id": 1,
+    "Model": "2006 Mustang GT",
+    "Make": "Ford",
+    "UserId": 1,
+    "IsActive": false
+  },
+  {
+    "Id": 2,
+    "Model": "2001 Mustang Coupe (V6)",
+    "Make": "Ford",
+    "UserId": 1,
+    "IsActive": false
+  },
+  {
+    "Id": 3,
+    "Model": "2008 Escape XLT V6 4x4",
+    "Make": "Ford",
+    "UserId": 1,
+    "IsActive": false
+  },
+  {
+    "Id": 4,
+    "Model": "2012 Mustang GT",
+    "Make": "Ford",
+    "UserId": 1,
+    "IsActive": true
+  },
+  {
+    "Id": 6,
+    "Model": "2017 Explorer XLT 3.5L V6 4x4",
+    "Make": "Ford",
+    "UserId": 1,
+    "IsActive": true
+  }
+]
